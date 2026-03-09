@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+pdfplumber
+python-dotenv
+google-genai
+psycopg2-binary
